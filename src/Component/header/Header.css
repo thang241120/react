@@ -1,0 +1,8 @@
+header{
+    background-color: aquamarine;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    margin: auto;
+    width: 1000px;
+    padding: 20px 20px 20px 20px;
+}

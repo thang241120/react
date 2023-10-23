@@ -1,0 +1,25 @@
+.menu{
+    width: 1000px;
+    background-color: cadetblue;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.menu ul{
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menu ul li{
+    list-style-type: none; 
+}
+
+.menu ul li{
+    text-decoration: none;
+    color: chocolate;
+}
+
+.menu ul li a:hover{
+    color: crimson;
+}
